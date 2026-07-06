@@ -252,3 +252,18 @@ Excel + VLOOKUP.
 * API-интеграции вместо FTP и Email;
 * облачные SaaS/PaaS-сервисы вместо локальной инфраструктуры;
 * централизованное управление конфигурацией магазинов.
+
+## Итоговая стратегия Sourcing Strategy
+Модель | Возможности |
+| ------ | ------ |
+|SaaS (Buy)|Cloud POS, Payment Gateway, Loyalty, Device Management, Monitoring, Service Desk, корпоративные сервисы
+|PaaS/IaaS (Migrate/Build in Cloud)|Облачные базы данных, API Gateway, Integration Platform, SKU Matching, Smart Fulfillment, Promo Engine, Click & Collect|
+|In-house / On-Premise| SAP ERP, финансовый учет, кадровый учет, мастер-данные предприятия
+
+## Вывод
+
+### Предлагаемая стратегия соответствует целям VitaStore:
+* снижение TCO более чем на 25% за счёт отказа от локальных серверов, SQL Server и толстого POS-клиента;
+* сокращение срока подключения нового магазина до 5 дней благодаря автоматизации процесса SKU Matching и централизованному управлению конфигурацией;
+* уменьшение нагрузки на Team Store Ops за счёт перехода на Cloud POS, Payment Gateway и SaaS-сервисы;
+* сохранение конкурентных преимуществ (Smart Fulfillment, Click & Collect, Promo Engine и SAP ERP) как собственных решений, развиваемых внутри компани
